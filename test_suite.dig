@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>Testcase</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>add</string>
+        </entry>
+        <entry>
+          <string>Testdata</string>
+          <testData>
+            <dataString>clock error halt
+
+# #include &quot;../cpudef.asm&quot;
+#
+# move r1, 5
+# move r2, 3
+# add r1, r2
+# add r1, 2
+# musteq r1, 10
+
+program(0x051c, 0x032c, 0x0091, 0x0210, 0x0a1a)
+
+let i = 0;
+while(!(halt | error | (i &gt;= 100)))
+  let i = i + 1;
+  0 0 0
+  1 x x
+end while
+0 0 1
+
+</dataString>
+          </testData>
+        </entry>
+      </elementAttributes>
+      <pos x="180" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>frontpanel.dig</elementName>
+      <elementAttributes/>
+      <pos x="560" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Clock</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>clock</string>
+        </entry>
+      </elementAttributes>
+      <pos x="500" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>PC</string>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>4</int>
+        </entry>
+      </elementAttributes>
+      <pos x="820" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>error</string>
+        </entry>
+      </elementAttributes>
+      <pos x="840" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>halt</string>
+        </entry>
+      </elementAttributes>
+      <pos x="800" y="340"/>
+    </visualElement>
+  </visualElements>
+  <wires>
+    <wire>
+      <p1 x="700" y="240"/>
+      <p2 x="820" y="240"/>
+    </wire>
+    <wire>
+      <p1 x="500" y="180"/>
+      <p2 x="560" y="180"/>
+    </wire>
+    <wire>
+      <p1 x="700" y="280"/>
+      <p2 x="840" y="280"/>
+    </wire>
+    <wire>
+      <p1 x="700" y="300"/>
+      <p2 x="800" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="800" y="300"/>
+      <p2 x="800" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="840" y="280"/>
+      <p2 x="840" y="300"/>
+    </wire>
+  </wires>
+  <measurementOrdering/>
+</circuit>
