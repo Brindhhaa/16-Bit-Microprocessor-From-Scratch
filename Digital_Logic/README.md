@@ -12,7 +12,7 @@ Hello to all reading this! This was a project that I completed after my very fir
       
       Automation: Unit tests that I automated to test out my CPU
       
-      Assembler: The assemble to create my instructions
+      Assembler: The assembler to create my instructions
       
       Sample Assembly Code: A few assembly code files to try some things out on my CPU
 
@@ -21,5 +21,5 @@ Hello to all reading this! This was a project that I completed after my very fir
 
 
 
-This project was more of a passion/hobby project and a great learning experience for me. If you have any questions, please reach out! I love hearing other people's thoughts and ways to make my work easier for others to understand. 
+This project was more of a passion/hobby project and a great learning experience for me. If you have any questions, please reach out (brindha2@illinois.edu)! I love hearing other people's thoughts and ways to make my work easier for others to understand. 
   
