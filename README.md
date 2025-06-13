@@ -18,8 +18,18 @@ Hello to all reading this! This was a project that I completed after my very fir
 
   
 
+<img width="798" alt="image" src="https://github.com/user-attachments/assets/b9f5a82c-8e4e-4272-9c98-00c16b00a263" />
+
+<img width="1336" alt="image" src="https://github.com/user-attachments/assets/25ee6cfb-f78c-4cfa-a54f-f80ba41a9380" />
+
 
 
 
 This project was more of a passion/hobby project and a great learning experience for me. If you have any questions, please reach out (brindha2@illinois.edu)! I love hearing other people's thoughts and ways to make my work easier for others to understand. 
-  
+
+
+Note, if you would like to view the digital logic design, you must download the logic simulation app Digital, otherwise it just looks like a bunch of code. You can get the software here: https://github.com/hneemann/Digital/releases
+
+
+
+
