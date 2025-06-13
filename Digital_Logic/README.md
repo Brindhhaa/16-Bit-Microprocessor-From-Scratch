@@ -23,3 +23,5 @@ Hello to all reading this! This was a project that I completed after my very fir
 
 This project was more of a passion/hobby project and a great learning experience for me. If you have any questions, please reach out (brindha2@illinois.edu)! I love hearing other people's thoughts and ways to make my work easier for others to understand. 
   
+Here are some things to note:
+If you 
