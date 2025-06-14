@@ -22,6 +22,7 @@ Hello to all reading this! This was a project that I completed after my very fir
 
 <img width="1336" alt="image" src="https://github.com/user-attachments/assets/25ee6cfb-f78c-4cfa-a54f-f80ba41a9380" />
 
+![NBMetadataCache](https://github.com/user-attachments/assets/9a94d26c-83a5-4496-b525-ea5898acdb60)
 
 
 
