@@ -8,12 +8,10 @@ Hello to all reading this! This was a project that I completed after my very fir
       
       Architecture: A datapath and overview of the architecture of my processor
       
-      Instruction Set: An explanation of all of the instructions I implemented
+      Instruction Set: An explanation of all of the instructions I implemented, as well as the way each instruction is formatted in machine code (in the file cpudef.asm)
       
       Automation: Unit tests that I automated to test out my CPU
-      
-      Assembler: The assembler to create my instructions
-      
+            
       Sample Assembly Code: A few assembly code files to try some things out on my CPU
 
   
