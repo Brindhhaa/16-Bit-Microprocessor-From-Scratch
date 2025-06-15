@@ -18,7 +18,7 @@ Hello to all reading this! This was a project that I completed after my very fir
 
   
 
-<img width="798" alt="image" src="https://github.com/user-attachments/assets/b9f5a82c-8e4e-4272-9c98-00c16b00a263" />
+<img width="1216" alt="image" src="https://github.com/user-attachments/assets/1e51ebb9-3156-4129-acae-eed33a379e2d" />
 
 <img width="1336" alt="image" src="https://github.com/user-attachments/assets/25ee6cfb-f78c-4cfa-a54f-f80ba41a9380" />
 
