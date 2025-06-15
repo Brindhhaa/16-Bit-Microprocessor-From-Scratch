@@ -20,7 +20,7 @@ It parses the assembler’s output, cleans it up, and converts each instruction 
 Finally, the script prints a complete simulation testbench that:
 -  Includes the commented assembly code to refer to
 -  Loads the assembled machine code into the simulator
--  Defines a simple clock and control loop to automatically run your program for up to **100 cycles** or until it halts or errors
+-  Defines a simple clock and control loop to automatically run the program for up to **100 cycles** or until it halts or errors
 
 ---
 
