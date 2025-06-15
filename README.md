@@ -1,6 +1,6 @@
 # 16-Bit MicroProcessor
 
-Hello to all reading this! This was a project that I completed after my very first introduction to computer architecture course. This is a 16 bit microprocessor with a retro style GPU and 32 instructions. For this project, I have a few folders listed:
+Hello to all reading this! This was a project that I completed after my very first introduction to computer architecture course. This is a 16 bit microprocessor that I designed and implemented in digital logic. It has 22 instructions. For this project, I have a few folders listed:
 
 
 
