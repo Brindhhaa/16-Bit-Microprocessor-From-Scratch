@@ -2,6 +2,9 @@
 
 This Ruby script automates the process of assembling a custom 16-bit microprocessor program and generating a ready-to-use simulation testbench. Here’s how it works:
 
+
+
+
 ---
 
 ###  1. Reads the assembly source file  
