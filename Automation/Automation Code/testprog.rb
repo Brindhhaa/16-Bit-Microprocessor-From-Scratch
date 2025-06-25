@@ -1,7 +1,6 @@
 #!/bin/env ruby
 
 
-
 #This loads Ruby’s standard Pathname library, which provides methods to handle and manipulate file paths in a clean, object-oriented way. It’s used later to get relative paths.
 require "pathname"
 
