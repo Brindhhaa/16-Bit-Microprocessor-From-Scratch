@@ -1,6 +1,6 @@
 ## 📄 What This Ruby Script Does
 
-This Ruby script automates the process of assembling a custom 16-bit microprocessor program and generating a ready-to-use simulation testbench. Here’s how it works:
+This Ruby script automates the process of assembling my custom 16-bit microprocessor program and generating a ready-to-use simulation testbench. Here’s how it works:
 
 ---
 
